@@ -22,7 +22,7 @@ Make sure to have the datasets ready in the `data/` directory or update the path
 - Regions (Brussels, Flanders, Wallonia)
 - Track categories (Main tracks, Secondary tracks)
 - Year
-- Kilometers
+- Kilometer
 - Number of devices
 
 ## Setup Instructions
@@ -34,8 +34,8 @@ Follow these steps to get the project up and running:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/username/project-repo.git
-   cd project-repo
+   git clone https://github.com/Ruzgarkartali/DTSC-Technical-Test.git
+   cd DTSC-Technical-Test
    ```
 
 2. **Create a Virtual Environment (Optional)**
@@ -44,7 +44,7 @@ Follow these steps to get the project up and running:
 
    ```bash
    python -m venv venv
-   source venv/bin/activate # On Windows, use venv\Scripts\activate
+   source venv/Scripts/activate # On Windows, use venv\Scripts\activate
    ```
 
 3. **Install Dependencies**
